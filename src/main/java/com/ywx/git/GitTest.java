@@ -1,0 +1,11 @@
+package com.ywx.git;
+
+/**
+ * @author 杨炜昕
+ * @version 1.0
+ */
+public class GitTest {
+    public static void main(String[] args) {
+        System.out.println("hello git");
+    }
+}
